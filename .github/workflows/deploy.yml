@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER: cluster0.hlsuvxr.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.hlsuvxr.mongodb.net
       MONGODB_USERNAME: savitat5
       MONGODB_PASSWORD: p96rdWivKSBydUL5
       PORT: 8080
